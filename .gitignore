@@ -1,0 +1,12 @@
+# IDE settings
+.idea/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments and test cache
+.venv/
+venv/
+.pytest_cache/
+
